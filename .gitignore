@@ -1,0 +1,9 @@
+envs
+aceg
+.pytest_cache
+*.ipynb
+.idea
+.ipynb_checkpoints
+*.csv
+*.jl
+__pycache__
